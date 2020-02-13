@@ -1,0 +1,9 @@
+{
+  "IsEncrypted": false,
+  "Values": {
+    "AzureWebJobsStorage": "UseDevelopmentStorage=true",
+    "BaseProcessamento": "Data Source=localhost,11433;Initial Catalog=BaseProcessamento;User Id=sa;Password=DockerSql2017!;",
+    "Local": "Notebook Renato",
+    "FUNCTIONS_WORKER_RUNTIME": "dotnet"
+  }
+}
